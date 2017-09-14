@@ -1,4 +1,4 @@
-const canvas = require('canvas');
+const canvas = require('canvas-prebuilt');
 const imageType = require('image-type');
 
 function overrideWindow() {
