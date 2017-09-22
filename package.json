@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/peter-mouland/node-resemble-v2#readme",
   "dependencies": {
-    "canvas-prebuilt": "^1.6.0",
+    "canvas-prebuilt": "git://github.com/mtbuildboola/node-canvas-prebuilt",
     "image-type": "^2.1.0",
     "resemblejs": "git://github.com/mtbuildboola/Resemble.js"
   }
